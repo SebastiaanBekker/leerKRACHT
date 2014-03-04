@@ -22,4 +22,9 @@
 ##Participatie
 - Deel successen van jouw school met andere scholen (soms kan daar wat voorbereiding voor nodig zijn)
 - Deel obstakels en moeilijkheden op jouw school met andere scholen, zo haal je er zelf het meeste uit
+##Methode
+- Bespreek ook het gebruik van de verschillende onderdelen uit de set van leerKRACHT: wat werkt er wel en wat niet in het lesbezoek, de gezamenlijke lesvoorbereiding en de bordsessie. 
+- Maak het concreet (in vorm, inhoud, frequentie) wat er beter zou kunnen en wat er goed gaat.
+- Verwerk dit in de nieuwe versie van het document en leg het voor aan andere scholen via: http://sebastiaanbekker.github.io/leerKRACHT/
+- Zo hebben andere scholen er profijt van en blijft de basis en aanpak binnen de school ook duidelijk.
 
