@@ -1,7 +1,6 @@
 { "layout": "post", "title": "Lesbezoek", "date": "04/02/2014", "description": "Eerste github versie van documentatie lesbezoek", "tags": [ "leerKRACHT", "onderwijs", "lesbezoek", "LB" ] }
 
 
-
 Wat is Lesbezoek?
 ----------------
 Leraren bezoeken wekelijks of tweewekelijks lessen bij collega’s om van elkaar te leren en elkaar te helpen met ontwikkelpunten
