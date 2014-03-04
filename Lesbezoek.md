@@ -8,13 +8,13 @@ Leraren bezoeken wekelijks of tweewekelijks lessen bij collega’s om van elkaar
 Waarom Lesbezoek?
 -----------------
 Inspiratie
-Observeren van manier van lesgeven en het effect daarvan op leerlingen
-Bespreken van ervaringen
-Leren van elkaar
-Geven en ontvangen van feedback
-Samen nadenken hoe je je didactische en pedagogische vaardigheden kunt aanscherpen
+- Observeren van manier van lesgeven en het effect daarvan op leerlingen
+- Bespreken van ervaringen
+- Leren van elkaar
+- Geven en ontvangen van feedback
+- Samen nadenken hoe je je didactische en pedagogische vaardigheden kunt aanscherpen
 Eenduidigheid
-Creëren van een gezamenlijke manier van werken op het gebied van:
-Inhoud en methodiek (bijv. VO zelfde breukeninstructie bij wiskunde en economie; PO identieke instructie spellingregels)
-Houding en gedrag in de klas
-Vakoverstijgende aspecten (sociale vaardigheden van leerlingen, raakvlakken tussen verschillende secties / vakken)
+- Creëren van een gezamenlijke manier van werken op het gebied van:
+- Inhoud en methodiek (bijv. VO zelfde breukeninstructie bij wiskunde en economie; PO identieke instructie spellingregels)
+- Houding en gedrag in de klas
+- Vakoverstijgende aspecten (sociale vaardigheden van leerlingen, raakvlakken tussen verschillende secties / vakken)
