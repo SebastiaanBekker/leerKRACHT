@@ -63,9 +63,9 @@ Een Lesbezoek kan ook een deel van de les zijn, spreek dit wel af met de leraar 
 ##Doen en niet doen
 ###Doen
 - Doe zelf wekelijks 2-3 Lesbezoeken en bespreek deze kort maar krachtig na
-- Gebruik het feedbackmodel heel expliciet
+- Gebruik het feedbackmodel heel expliciet.
 - Geef duidelijk aan wanneer je lessen bezoekt ten behoeve van de beoordeling van de leraar en niet in het kader van leerKRACHT. Overweeg om zo’n beoordelingsbezoek uit te stellen tot na de fase waarin vertrouwen wordt opgebouwd in het kader van leerKRACHT.
-- 
+
 ###Niet doen
 - Doe geen onaangekondigde Lesbezoeken (tenzij met collega’s is afgesproken dat dit in orde is)
 - Gebruik geen ervaringen uit je leerKRACHT Lesbezoek als input voor je beoordeling
