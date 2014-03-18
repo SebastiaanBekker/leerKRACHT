@@ -4,7 +4,7 @@ markdown: rdiscount
 prose:
   ignore:
     - /\..*
-    - /_config.yml
+    - /_prose.yml
     - /atom.xml
     - /LICENSE.md
     - /_layouts
