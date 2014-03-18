@@ -1,6 +1,6 @@
 baseurl: /leerKRACHT
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
 prose:
   ignore:
     - /\..*
