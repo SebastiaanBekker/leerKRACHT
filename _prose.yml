@@ -2,16 +2,7 @@ baseurl: /leerKRACHT
 permalink: pretty
 markdown: rdiscount
 prose:
-  ignore:
-    - /\..*
-    - /_prose.yml
-    - /atom.xml
-    - /LICENSE.md
-    - /_layouts
-    - /_includes
-    - /public
-    - /blog
-  rooturl: 'leerKRACHT'
+  rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
