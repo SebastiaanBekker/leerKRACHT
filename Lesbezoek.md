@@ -54,6 +54,7 @@ Later kan je hen aanmoedigen op basis van eigen observaties en feedback persoonl
 Lesgeven met de “deur open” kan een grote stap en verandering zijn voor leraren. Laat leraren in het begin zelf koppels maken en mensen kiezen bij wie ze zich comfortabel voelen en die geen bedreiging voor hen vormen.
 ###Hoeveel Lesbezoeken moet ik als SL zelf doen?
 Probeer vooral in het begin 2-3 Lesbezoeken per week te doen en deel de feedback individueel met desbetreffende leraren (gebruik makend van het feedbackmodel!). Je kan ook in de wekelijkse Bordsessie daarna op een meer algemeen niveau je ervaringen delen. Als je geen tijd hebt, hoef je niet altijd een hele les te blijven, maar spreek wel van tevoren af met degene die je bezoekt op welk punt je de les verlaat, zodat dit geen verassing is. Houd ook later een flink ritme vast (1 of 2 Lesbezoeken per week)
+
 ###Hoe zorg je dat lesbezoeken veilig zijn?
 Door het feedbackmodel goed te gebruiken, koppels te laten vormen met mensen die elkaar vertrouwen, in het begin alleen positieve feedback te geven en alleen constructieve feedback te geven op basis van de specifieke leervraag van de geobserveerde leraar
 ###Moet een lesbezoek de hele les duren?
