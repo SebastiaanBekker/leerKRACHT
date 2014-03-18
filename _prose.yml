@@ -16,11 +16,6 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    _posts:
-      - name: "auteur"
-        field:
-          element: "text"
-          label: "Who are you dude ?"
           
       - name: "category"
         field:
