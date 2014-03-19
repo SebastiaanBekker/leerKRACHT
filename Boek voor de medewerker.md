@@ -20,6 +20,22 @@ Voor vragen, meer informatie en inspiratie kun je terecht op het online platform
 
 Succes en veel plezier! 
 stichting leerKRACHT
-----------
+
+------------------
+Beeldmateriaal beschikbaar op het online platform (via www.stichting-leerkracht.nl)
+
+Meer inspiratie, achtergrondmaterialen of voorbeelden beschikbaar op het online platform (www.stichting-leerkracht.nl)
+
 #Inhoudsopgave en verklaring legenda
-Inhoud            Pagina
+Inhoud            
+Introductie leerKRACHT
+Weekplanning en jaarplanning
+Voornaamste interventies
+- Bezoeken (WB+LB)
+- Gezamenlijke werkvoorbereiding (GW)
+- Bordsessie (BS)
+-Barometer (B) en Pizzasessies (P)
+Materialen interventies 
+
+---------------
+Introductie leerKRACHT
