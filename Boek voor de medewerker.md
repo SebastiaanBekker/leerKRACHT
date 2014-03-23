@@ -66,9 +66,9 @@ Op een geweldige school bepalen leraren en schoolleiding zelf hun doelen en ambi
 
 Stichting leerKRACHT heeft een aanpak ontwikkeld waarbij een cultuur van continue verbetering de sleutel is tot succes. Deze aanpak draait om een drietal kerninterventies waarbij de leraar centraal staat.
 
-1 Lesbezoek: leraren observeren lessen, leren van elkaar, testen de oplossingen voor gesignaleerde aandachts- en/of ontwikkelpunten
-2 Gezamenlijke  Lesvoorbereiding: leraren bereiden samen lessen of onderdelen van lessen voor, bedenken oplossingen voor gesignaleerde aandachts- en/of ontwikkelpunten en helpen elkaar
-3 Bordsessie: effectieve, korte teamsessies, waarin leraren  schoolleiding wekelijks (leerling)resultaten bespreken, aandachtspunten signaleren voor Gezamenlijke Lesvoorbereiding, verbeteracties afspreken en dit visualiseren op een white board.
+1. Lesbezoek: leraren observeren lessen, leren van elkaar, testen de oplossingen voor gesignaleerde aandachts- en/of ontwikkelpunten
+2. Gezamenlijke  Lesvoorbereiding: leraren bereiden samen lessen of onderdelen van lessen voor, bedenken oplossingen voor gesignaleerde aandachts- en/of ontwikkelpunten en helpen elkaar
+3. Bordsessie: effectieve, korte teamsessies, waarin leraren  schoolleiding wekelijks (leerling)resultaten bespreken, aandachtspunten signaleren voor Gezamenlijke Lesvoorbereiding, verbeteracties afspreken en dit visualiseren op een white board.
 
 Daarnaast dient de schoolleiding sterk aanwezig te zijn op werkvloer en in de les. De schoolleiding besteedt veel tijd aan het Gezamenlijke verbeteren van onderwijskwaliteit en het ondersteunen van leraren.
 
@@ -112,7 +112,9 @@ BRON: www.stichting-leerkracht.nl
 
 ##Medewerker Ondersteunende diensten 
 ▪ Richt de processen en ondersteuning zo in dat deze optimaal bijdragen aan de kwaliteit van onderwijs
+
 ------------------
+
 #Waarom leerKRACHT voor medewerkers ondersteunende diensten?
 “We zitten in Nederland vast in ‘goed’ – we zijn aan het watertrappelen, ondanks 26 pogingen het Nederlands onderwijs te verbeteren”
 
