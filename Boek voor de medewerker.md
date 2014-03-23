@@ -57,6 +57,7 @@ BRON: PISA 2009; McKinsey – How the world’s most improved school systems kee
 – Standaardoplossingen zijn onwenselijk, elk team bedenkt oplossingen voor de eigen situatie
 
 BRON: McKinsey – How the world’s most improved school systems keep getting better (2010); www.stichting-leerkracht.nl
+
 ------
 ##Wat betekent leerKRACHT?
 “Een geweldige school herken je niet alleen aan leerlingresultaten, maar vooral ook aan de schoolcultuur en kwaliteit van de leraren”
