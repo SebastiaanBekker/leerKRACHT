@@ -335,21 +335,79 @@ Voorbeeld: Kijkwijzer
 - Creëren van een gezamenlijke beeld van de wensen van de leerling, de eindklant.
 
 ##Hoe werkt Lesbezoek in de praktijk?
-I. Voorbereiding
-Ga na welke leraren open staan voor observatie in de klas. Zoek bijvoorbeeld bij een team wat ook het LeerKRACHT traject doet.
-Laat je coach hier eventueel een bemiddelende rol in spelen
-Bespreek bij wie je in de klas gaat observeren
-Bespreek van tevoren samen de leervraag van jezelf en/of degene die je gaat observeren
-Plan het moment voor de nabespreking die je samen doet
-II. Observatie
-Gebruik tijdens het Lesbezoek of jullie eigen kijkwijzer of de kijkwijzer van de leraar.
-De duur van een Lesbezoek kan variëren (10-60 minuten)
-III. Nabespreking en/of Feedback 
-Bespreek bij de nabespreking zowel wat jij geleerd hebt  over je eigen afdeling, als wat je de ander als feedback wil geven. Je leert allebei tijdens een Lesbezoek
-De observator geeft de geobserveerde feedback aan de hand van het ‘feedback model’ (meer uitleg op p.39)
-Geef zowel feedback op sterke punten als op ontwikkelpunten (zoek hierin een balans)
-Wissel ideeën uit over de rol en het belang van jouw ondersteunende afdeling voor het onderwijs
-
+###I. Voorbereiding
+- Ga na welke leraren open staan voor observatie in de klas. Zoek bijvoorbeeld bij een team wat ook het LeerKRACHT traject doet.
+- Laat je coach hier eventueel een bemiddelende rol in spelen
+- Bespreek bij wie je in de klas gaat observeren
+- Bespreek van tevoren samen de leervraag van jezelf en/of degene die je gaat observeren
+- Plan het moment voor de nabespreking die je samen doet
+###II. Observatie
+- Gebruik tijdens het Lesbezoek of jullie eigen kijkwijzer of de kijkwijzer van de leraar.
+- De duur van een Lesbezoek kan variëren (10-60 minuten)
+###III. Nabespreking en/of Feedback 
+- Bespreek bij de nabespreking zowel wat jij geleerd hebt  over je eigen afdeling, als wat je de ander als feedback wil geven. Je leert allebei tijdens een Lesbezoek
+- De observator geeft de geobserveerde feedback aan de hand van het ‘feedback model’ (meer uitleg op p.39)
+- Geef zowel feedback op sterke punten als op ontwikkelpunten (zoek hierin een balans)
+- Wissel ideeën uit over de rol en het belang van jouw ondersteunende afdeling voor het onderwijs
 
 ---------
+# Format lesbezoek
+
+------------
+#Wat is Gezamenlijk Werkvoorbereiding (GW) en waarom doen we dit?
+##Wat is Gezamenlijke Werkvoorbereiding?
+Collega’s zitten wekelijks of tweewekelijks 15-60 minuten samen om werk voor te bereiden om tot een verbetering te komen. Hierin kunnen verschillende onderwerpen worden uitgewerkt, zoals:
+- Procedures en Processen
+- Klanttevredenheid
+- Afdelingsoverstijgend processen
+- Communicatie met collega´s en/of andere afdelingen
+
+##Waarom doen we Gezamenlijke Werkvoorbereiding?
+###Inspiratie
+- Samen brainstormen over bestaande processen en procedures levert vaak nieuwe inzichten op
+- Ontdekken van nieuwe manieren van werken
+
+###Leren van elkaar
+- Bewust samen nadenken over dagelijkse activiteiten
+- Delen van ervaringen
+- Inzicht in elkaars kwaliteiten
+
+###Eenduidigheid
+- Creëren van een gezamenlijke idee over wat het doel van de activiteiten is, welke klanten bediend worden en hoe processen verbeterd en vastgelegd kunnen worden
+
+
+**“Ik sta niet meer zo alleen, ik krijg inspirerende ideeën van mijn collega's, en ervaar veel steun.”
+**
+
+**“Ik ben nu samen met collega’s met de kwaliteit van onze afdeling bezig.”
+**
+
+**“Door meer stil te staan bij wie onze klant is voelen we ons meer verantwoordelijk voor ons eindproduct.”
+**
+
+--------
+#Hoe werkt Gezamenlijke Werkvoorbereiding (GW)?
+##Hoe starten we met Gezamenlijke Werkvoorbereiding?
+- Definieer wat een goed werkproces is gebaseerd op jullie kwaliteitseisen of op andere criteria gesteld door de organisatie
+- Maak gezamenlijk afspraken over wat jullie een goed werkproces vinden
+- Daarbij kun je jezelf de volgende vragen stellen:
+	- Is het een unieke activiteit of maakt het onderdeel van een proces
+	- Komt het vaak voor of is het een unieke situatie
+	- Is het de moeite waard om een standaardprocedure of checklist te maken (gezamenlijk werkvoorbereiding formulier)
+- Ontwerp een eigen GW formulier
+- Stel een ritme vast waarin GW plaatsvindt
+
+##Hoe werkt Gezamenlijke Werkvoorbereiding in de praktijk?
+- Bereid werk voor in duo’s of kleine groepen
+- Kies een concreet, actueel onderwerp. Maak het onderwerp niet te groot en niet te klein. 
+- Check vervolgens of jullie afdelingsvisie en/of kwaliteit criteria hierin terugkomen?
+- Suggestie Koppel een Werkbezoek aan de Gezamenlijke Werkvoorbereiding en evalueer vervolgens.
+
+##Hoe ontwerp je een GW Formulier?
+- Elke afdeling ontwerpt voor de Gezamenlijke Werkvoorbereiding haar eigen GW Formulier, die werkt voor de context en doelen van de afdeling
+- Ontwerp het GW formulier aan de hand van de gezamenlijke afspraken, de visie van de afdeling en/of de criteria van de kwaliteitseisen voor de afdeling
+
+
+Voorbeeld: GW Formulier
+
 
