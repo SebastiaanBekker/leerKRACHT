@@ -267,4 +267,89 @@ Leren van medewerkers en teamleiders van andere ondersteunende diensten en lerar
 ##Wat is Werkbezoek?
 **Werkbezoek**: bij elkaar kijken of elkaar observeren bij overleggen of gesprekken, om te leren van en met je collega’s om nog beter werk te leveren..
 
+##Vormen van werkbezoek
+Werkbezoek is **observeren** van een collega tijdens haar/zijn werk, bijvoorbeeld bij overleggen, (telefoon)gesprekken, trainingen, handelingen e.d. Van tevoren maak je afspraken over de observatiepunten en waarop de  feedback wil hebben. 
+Werkbezoek kan ook op andere manieren:
+- een **video-opname** maken van een werkmoment, men maakt daarna een keuze welk deel van de opnames de collega te zien krijgt. Feedback wordt gegeven op basis van observatievraag naar aanleiding van de video-opnames.
+- **Intervisie** is een manier om vooraf of achteraf een casus te bespreken. Een opties wanneer om bijvoorbeeld privacy-redenen niet voor de andere vormen gekozen kan worden. Intervisie kan in tweetallen, maar ook een drie- of viertal is mogelijk. Bij intervisie is het van belang dat de feedback voldoende variatie kent, zodat de ontvanger keuze kan maken uit de verschillende tips.
+
+##Waarom Werkbezoek?
+**Inspiratie**
+- Observeren van elkaars manier van werken en het effect daarvan op de omgeving
+- Bespreken van ervaringen
+**Leren van elkaar**
+- Geven en ontvangen van feedback
+- Samen nadenken hoe je je werkzaamheden kunt aanscherpen
+**Eenduidigheid**
+- Creëren van een gezamenlijke manier van werken op diverse gebieden.
+
+
+“Elk werkbezoek levert weer nieuwe inzichten op
+
+
+------------
+
+#Hoe werkt Werkbezoek (WB)?
+##Hoe starten we met Werkbezoek?
+- Ontwerp een eigen kijkwijzer. Een kijkwijzer is een formulier dat je gebruikt tijdens het Werkbezoek. Op deze pagina en de twee volgende pagina’s staan voorbeelden van kijkwijzers 
+- Stel een ritme vast waarin koppels elkaars werk bezoeken
+
+##Hoe werkt Werkbezoek in de praktijk?
+###I. Voorbereiding
+- Bespreek wie bij wie werk gaat observeren
+- Bespreek van tevoren samen de leervraag van degene die je gaat observeren
+- Plan het moment voor de nabespreking die je samen doet
+###II. Observatie
+- Gebruik tijdens het Werkbezoek een kijkwijzer en zorg  dat je concrete observaties en het effect op collega’s bekijkt
+- De duur van een Werkbezoek kan variëren (10-60 minuten)
+###III. Feedback 
+- De observator geeft de geobserveerde feedback aan de hand van het ‘feedback model’ (meer uitleg op p.39)
+- Bespreek bij de nabespreking zowel wat jij geleerd hebt als wat je de ander als feedback wil geven. Je leert allebei tijdens een Werkbezoek!
+- Geef zowel feedback op sterke punten als op ontwikkel-punten (zoek hierin een balans)
+
+##Hoe ontwerp je een Kijkwijzer?
+- Elke afdeling ontwerpt voor het werkbezoek haar eigen kijkwijzer, die werkt voor de context en doelen van de afdeling
+- Ontwerp kijkwijzer aan de hand van de gezamenlijke afspraken, de visie van de afdeling en/of de criteria van de kwaliteitseisen voor de afdeling
+
+Voorbeeld: Kijkwijzer
+
+---------
+#Kijkwijzer voor werkobservaties
+
+
+
+-----------
+#Wat is Lesbezoek (LB) en waarom doen we dit?
+
+##Wat is Lesbezoek?
+**Lesbezoek** periodiek lessen bezoeken om nog meer te verbinden met het onderwijs. Het gaat er hier in eerste instantie om nader kennis te maken met de praktijk waarmee lesgevende collega’s te maken hebben. Belangrijk is dat over de feedback vooraf heldere verwachtingen naar elkaar worden uitgesproken
+
+##Waarom Lesbezoek?
+###Inspiratie
+- Observeren van het primaire proces. Inzicht krijgen in dagelijkse praktijk van leerkrachten.
+- Bespreken van ervaringen
+##Leren van elkaar
+- Geven en ontvangen van feedback
+- Samen nadenken hoe werkzaamheden van ondersteunende diensten het onderwijs kan versterken
+###Eenduidigheid
+- Creëren van een gezamenlijke beeld van de wensen van de leerling, de eindklant.
+
+##Hoe werkt Lesbezoek in de praktijk?
+I. Voorbereiding
+Ga na welke leraren open staan voor observatie in de klas. Zoek bijvoorbeeld bij een team wat ook het LeerKRACHT traject doet.
+Laat je coach hier eventueel een bemiddelende rol in spelen
+Bespreek bij wie je in de klas gaat observeren
+Bespreek van tevoren samen de leervraag van jezelf en/of degene die je gaat observeren
+Plan het moment voor de nabespreking die je samen doet
+II. Observatie
+Gebruik tijdens het Lesbezoek of jullie eigen kijkwijzer of de kijkwijzer van de leraar.
+De duur van een Lesbezoek kan variëren (10-60 minuten)
+III. Nabespreking en/of Feedback 
+Bespreek bij de nabespreking zowel wat jij geleerd hebt  over je eigen afdeling, als wat je de ander als feedback wil geven. Je leert allebei tijdens een Lesbezoek
+De observator geeft de geobserveerde feedback aan de hand van het ‘feedback model’ (meer uitleg op p.39)
+Geef zowel feedback op sterke punten als op ontwikkelpunten (zoek hierin een balans)
+Wissel ideeën uit over de rol en het belang van jouw ondersteunende afdeling voor het onderwijs
+
+
+---------
 
