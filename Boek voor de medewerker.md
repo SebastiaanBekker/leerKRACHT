@@ -183,6 +183,52 @@ planning (inroosteren van Bordsessies en Pizzasessies)
 
 #Weekplanning – in acht weken ontwikkel je met je transformatieteam een blijvende nieuwe manier van werken
 
+## week 1
+Teamsessie (2 uur)
+- Introductie leerKRACHT 
+- Uitgebreide introductie Bordsessie en opzetten Bord
+- Korte introductie werkbezoek 
+Werkbezoek (1 uur)
+
+## week 2
+Bordsessie (15 min)
+Teamsessie (2 uur)
+- Evaluatie eerste Bordsessie 
+- Feedbacktraining
+Werkbezoek (1 uur)
+## week 3
+Bordsessie (15 min)
+Teamsessie (2 uur)
+- Introductie en uitvoeren Gezamenlijke Werkvoorbereiding
+Gezamenlijke Werkvoorbereiding (1 uur)
+## week 4
+Bordsessie (15 min)
+Teamsessie (2 uur)
+- Grondige  evaluatie en aanpassing Bord 
+- Evaluatie GW
+Werkbezoek, incl opdracht eigen leervraag  (1 uur)
+## week 5
+Bordsessie (15 min)
+Teamsessie (2 uur)
+- Efficiënter werken
+Gezamenlijke Werkvoorbereiding incl eigen leervraag (1 uur)
+## week 6
+Bordsessie (15 min)
+Teamsessie (2 uur)
+- Borging (ritmiek voor WB, GW en Bord vastleggen) 
+Optionele invulling Werkbezoek (1 uur)
+## week 7
+Bordsessie (15 min)
+Teamsessie (2 uur)
+- Borging
+- Optionele invulling
+Gezamenlijke Werkvoorbereiding (1 uur)
+## week 8
+Bordsessie (15 min)
+Teamsessie (2 uur)
+
+
+
 -------------------
 
 #Jaarplanning schoolleiding kleine school (~30 leraren)
