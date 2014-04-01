@@ -533,3 +533,121 @@ Welk percentage van team is aanwezig bij Bordsessie?
 
 #Hoe kun je het bord concreet inrichten?
 Teamdoelen
+##Standaard opzet
+Wat is het huidige resultaat?
+Wat is een meetbaar team- of afdelings
+doel?
+Wat is onze streefwaarde?
+##Door team zelf in te richten
+###Onderdeel		
+Welke doelen en resultaten willen we bij houden die te maken hebben met kwaliteitsverbetering van de afdeling? Bijvoorbeeld het verbeteren van ……..
+
+###Voorbeeld
+\# klachten docenten verminderen
+Tevredenheid leerlingen verhogen
+Efficiënt werken
+Trainingsaanbod verbeteren en aanpassen aan behoeften leraren
+----------------
+#Hoe kun je het bord concreet inrichten?
+Verbeteracties
+##Standaard opzet
+Wie is hiervoor verantwoordelijk?
+Wanneer moet het klaar zijn?
+Wat is de huidige status? (bv. op/ achter schema) 
+Wat is de benodige actie?
+
+##Door team zelf in te richten
+###Onderdeel		
+Welke verbeteracties zetten we op dit bord 
+Gebruik van post-its of stift bij invullen
+Status kan je uitsplitsen in verschillende categorieën en zo de activiteit voortgang bij houden
+###Voorbeeld
+Verbeteren proces voor facturen betalen
+Invoeren standaardprocedure voor absentie noteren
+Invoeren van gegevens in schooladministratie systeem
+Identieke instructie voor afhandelen van ……
+Checklist opstellen voor standaardsituaties
+
+----------------
+#Hoe kun je het bord concreet inrichten?
+Team en successen
+##Standaard opzet
+Onderdeel	               Visualisatie
+Smiley’s voor het toetsen van sfeer en motivatie in het team om mogelijkheid te creëren om posi-tieve zowel als nega-tieve gevoelens te uiten en verbeter-acties te bespreken
+
+Wie van het team voelt zich positief, neutraal, negatief? 
+
+##Door team zelf in te richten
+Onderdeel		Voorbeeld Visualisatie
+Behaalde successen (wat hebben we te vieren?) 
+
+-------------------
+#Voorbeeld van een teambord op een school voor voortgezet onderwijs
+
+Baremeter
+**Om te vieren** Successen vieren op het bord
+**Acties** Wat? Wie? Wanneer?
+**Planning** Planning van komende twee weken
+**Teamadoelen** Op het bord staan de doelen en eigenaren
+**Resultaten** Visualiseren resultaten
+
+-------------------
+#Voorbeeld van een teambord van een ‘Rekengroep’ op het VMBO
+Teambord Rekengroep
+**Werkbezoek** Aantal lesbezoeken
+**Planning** Planning van komende week
+**Team** Smiley’s geven teamgevoel aan
+**Verbeteracties** Post-its geven de status van verbeteracties aan
+Onderscheid wordt gemaakt tussen ontwikkelpunten met een oplossing en ontwikkelpunten zonder een oplossing
+**Barometer** De uitslagen van de tweewekelijkse barometer (digitale enquête die leraren invullen)
+**Resultaten** Percentage voldoendes van elke klas 
+
+
+---------------
+#leerKRACHT-Barometer (B)
+##Wat is het?
+De barometer is een van de meetinstrumenten van het leerKRACHT programma. De barometer is een twee-wekelijkse online anonieme vragenlijst die door de deelnemende leraren wordt ingevuld
+##Waarom doen we het?
+De barometer maakt de voortgang en het effect van de transformatie transparant. 
+Het geeft een beeld aan de hoogte- en laagtepunten van de verandering en vormt daarmee een spreekbuis van de verschillende stadia van de transformatie
+Dit geeft input aan het team om de dialoog te hebben over hoe de transformatie verder kan worden verbeterd 
+Anonimiteit biedt een mogelijkheid om eerlijker te zijn 
+##Hoe doen we het?
+De resultaten worden geaggregeerd op het Bord weergegeven
+Tijdens de wekelijkse Bordsessie worden de resultaten besproken en worden concrete acties afgesproken om te werken aan de problemen die via de barometer aan het licht zijn gekomen
+##Rol team
+Het team vult de barometer eens in de vier weken in en bespreekt de uitkomst bij het bord.
+Hoe kan dat wat goed gaat, nog meer uitgebouwd worden en hoe kan dat wat minder gaat, verbeterd worden?
+##Meest gestelde vragen
+We meten al zoveel in het onderwijs, waarom moeten we de barometer eens in de twee weken invullen?: 
+De barometer is feedback aan het eigen team. Alleen het team bespreekt de resultaten van de eigen enquete. Om het elke dag samen een beetje beter te doen, is het belangrijk om geregeld te meten hoe het gaat. Door te meten weet je of het een beetje beter gaat of juist niet. Als het minder gaat, kan je als team tijdig bijsturen.
+##Doen en niet doen
+Niet denken, mijn collega’s vullen de barometer vast in, ik sla een keertje over. Door deze allemaal in te vullen, vertegenwoordigt de uitkomst ook echt het team
+De barometer is geen competitie-instrument. Vergelijk de uitkomsten niet met andere teams in je school
+Verandering kent hoogtepunten en dieptepunten. Geef niet op bij een dieptepunt, maar gebruik deze om een constructief gesprek met elkaar te hebben.
+
+---------------------
+#Wat is een Pizzasessie (P) en waarom doen we dit?
+
+##Wat?
+Pizzasessies zijn informele bijeenkomsten met tien tot vijftien scholen eens in 1 á 2 maanden; je ontmoet leerKRACHT collega’s van andere scholen en ondersteunende diensten, leert van en elkaar en doet inspiratie en ideeën op
+In de sessies wordt inhoudelijk ingegaan op de kerninterventies en er wordt verdieping geboden op het programma
+De sessies vinden wisselend plaats op één van de scholen en worden gefaciliteerd door stichting leerKRACHT; de laatste Pizzasessie heeft een feestelijk karakter
+
+##Waarom?
+###Schooloverstijgend leren van en met elkaar
+De Pizzasessie geeft inspiratie en vergelijkingsmateriaal voor de transformatie op jouw school of afdeling  
+Tijdens de Pizzasessies hoor je hoe andere afdelingen invulling geven aan de verschillende kerninterventies, wat er bij hen goed werkt, hoe zij omgaan met uitdagingen en weerstand, hoe zij nadenken over standaardisering, waarom zij willen veranderen en welke verbeteracties bij hun het meeste verschil maken
+###Verdieping op transformatieprogramma op school
+Vanuit stichting leerKRACHT wordt extra materiaal en verdieping geboden op de kerninterventies die kan helpen het effect van de kerninterventies naar het volgende niveau te tillen
+Bovendien krijg je meer te horen over feedback, borging, evaluaties en transformaties in het algemeen
+
+**“Het nogmaals focussen op hoe je concrete teamdoelen vaststelt heeft ons weer geïnspireerd om de doelen nog scherper en ´smarter´neer te zetten.”
+**
+
+**“Zoals alle andere Pizzasessies, vond ik dit ook weer een inspirerende sessie, omdat ik weer veel heb kunnen delen met collega‘s van andere scholen.”
+**
+
+--------------------
+#Het feedback model helpt je om op een effectieve en niet bedreigende manier feedback aan elkaar te geven in elke situatie
+
