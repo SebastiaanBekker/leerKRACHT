@@ -229,9 +229,42 @@ Verbindingssessie (2 uur)
 
 #Jaarplanning schoolleiding kleine school (~30 leraren)
 
-
+--------------
+#Jaarplanning schoolleiding grote school (~70 leraren)
 
 
 --------------
+#Nadere uitleg van de jaarplanning
+##School bootcamp
+Het Bootcamp is een 2-daagse trainingssessie voor medewerkers, en de school/teamleiding (in totaal ongeveer 5 mensen) van jouw school, waar je samen met  andere onderwijsinstellingen uit je regio het leerKRACHT programma uitgebreid uitgelegd krijgt. Er wordt onder andere geoefend met de interventies van het transformatieprogramma. Dit Bootcamp wordt  georganiseerd door  stichting leerKRACHT.
+##Aftrap leerKRACHT
+De aftrap is een bijeenkomst in de eerste maand met alle medewerkers van jouw afdeling waar het transformatie-programma wordt geïntroduceerd. De teamleiding behandelt tijdens de aftrap wat het programma inhoudt, wat het betekent voor medewerkers en welke hulp er beschikbaar is. Bovendien deelt de teamleiding zijn/haar veranderverhaal voor de afdeling en zullen er voorbeelden te zien zijn van wat leerKRACHT op andere  onderwijsinstellingen heeft betekend.
+##Transformatie team 
+De transformatie is het programma van acht weken waarin je samen met 8-10 collega’s interventies van leerKRACHT gaat toepassen: Werkbezoek (WB), Lesbezoek (LB), Gezamenlijke Werkvoorbereiding (GW) en Bordsessie (BS). In een wekelijkse teamsessie worden deze onderwerpen uitgelegd en bespreek je bevindingen en de voortgang met elkaar.
+##Nieuw leerKRACHT ritmiek
+Na de intensieve acht weken ga je met je team door met de nieuwe manier van werken. Je blijft werkbezoeken afleggen,  je blijft elkaar helpen met het werkvoorbereiden en je blijft elkaar dagelijks ontmoeten voor de Bordsessie. Aan het einde van de acht weken durende transformatie maak je in jouw team duidelijke afspraken over hoe het nieuwe ritme eruit gaat zien.
+##Verbindingssessie
+De Verbindingssessie is een teamsessie die plaatsvindtmet twee verschillende teams. Voor het ene team vormt de verbindingssessie de laatste teamsessie (week 8) van de transformatie, voor het andere team vormt de verbindingssessie de aanloop naar het acht weken durende transformatie-programma (week 0). Het doel van de verbindingssessie is ervaringen uitwisselen, inspiratie opdoen en de acht weken afsluiten.
+##Pizzasessies 
+Pizzasessies zijn maandelijkse, informele bijeenkomsten met andere scholen/onderwijsinstellingen uit jouw regio. Je ontmoet leerKRACHT collega’s van andere scholen/onderwijsinstellingen, leert van elkaar en doet inspiratie en ideeën op. In de sessies wordt inhoudelijk ingegaan op de kerninterventies en er wordt verdieping geboden op het programma. De sessies vinden wisselend plaats op één van de scholen en worden gefaciliteerd door stichting leerKRACHT. Voor ondersteunende diensten is er gedeeltelijk een eigen programma. De laatste Pizzasessie heeft een feestelijk karakter.
+
+--------
+#Overzicht voornaamste leerKRACHT interventies1 
+##Bord sessie (BS)
+Gezamenlijk jullie eigen teamdoelen opstellen en zorgen dat deze behaald worden
+##Bezoek (WB+LB)
+**Werkbezoek (WB)** bij elkaar, leren van en met je collega’s om nog beter werk te leveren
+**Lesbezoek (LB)**, periodiek lessen bezoeken om nog meer te verbinden met het onderwijs
+##Gezamenlijke werk- voorbereiding (GW)
+Samen een proces of activiteit voorbereiden met een eindproduct, bijvoorbeeld een standaard procedure of een checklist
+##Barometer
+Geregeld meten hoe jij en ik vinden dat ons team functioneert
+##Pizzasessie
+Leren van medewerkers en teamleiders van andere ondersteunende diensten en leraren en schoolleiders van andere scholen
+
+-----------
+#Wat is Werkbezoek (WB) en waarom doen we dit?
+##Wat is Werkbezoek?
+**Werkbezoek**: bij elkaar kijken of elkaar observeren bij overleggen of gesprekken, om te leren van en met je collega’s om nog beter werk te leveren..
 
 
