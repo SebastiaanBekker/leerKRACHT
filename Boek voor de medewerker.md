@@ -224,11 +224,7 @@ Teamsessie (2 uur)
 - Optionele invulling
 Gezamenlijke Werkvoorbereiding (1 uur)
 ## week 8
-Bordsessie (15 min)
-Teamsessie (2 uur)
-
-
-
+Verbindingssessie (2 uur)
 -------------------
 
 #Jaarplanning schoolleiding kleine school (~30 leraren)
