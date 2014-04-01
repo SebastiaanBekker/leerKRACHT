@@ -418,3 +418,118 @@ Voorbeeld: GW Formulier
 
 ----------------
 #Wat is een Bordsessie (BS) en waarom doen we dit?
+##Wat is een Bordsessie?
+- Een dagelijkse Bordsessie is een korte, effectieve teamsessie van 15 minuten die plaatsvindt terwijl men staat voor een whiteboard (zie p. 28-30 voor een voorbeeld van een bord)
+- Het bord moet aanzetten tot discussie, het doel is om de belangrijkste vragen en problemen te bespreken die jou als werknemer dagelijks bezig houden om daar direct samen mee aan de slag te gaan in de vorm van verbeteracties. Daarnaast bespreek je resultaten van en ideeën voor GL en LB, samenwerking met het team, week- en maandplanning, leerlingresultaten en schooldoelen 
+- Het bord bevat alle benodigde informatie om een team te ondersteunen bij het behalen van afdelingsdoelen
+- Het bord staat op een centrale plek waar het team het makkelijk kan zien, bijvoorbeeld in een team- of personeelskamer 
+
+##Waarom doen we een Bordsessie?
+###Effectiviteit
+- Uit wetenschappelijk onderzoek blijkt dat ‘face-to-face’ overleggen, terwijl de discussie gevisualiseerd wordt op een white board, één van de meest warme en effectieve manier is van communiceren 
+###Zichtbaarheid 
+- Zichtbaar maken van afdelingsdoelen en verbeteracties zodat men elkaar kan helpen
+Delen van verbeteracties zodat men hier collectief mee aan de slag kan gaan
+Voortgang laten zien op verbeteracties (gevolg: stimulans en aandacht)
+###Ritme
+- Vaste dagelijkse ritmiek versterkt en waarborgt verbeterprocessen (waaronder GW en WB) doordat deze onderdeel zijn van de Bordsessie
+
+**“Ik heb helemaal rust in mijn hoofd nu alles op het bord staat en overzicht heb wie waar mee bezig gaat.”
+**
+
+**“Toen pas realiseerde ik me hoeveel tijdwinst een dagelijkse Bordsessie mij de rest van de week oplevert!”
+**
+
+----------
+#Hoe werkt een Bordsessie (BS)?
+##Hoe starten we met een Bordsessie?
+- Elk transformatieteam creëert een eigen teambord samen met de coach en teamleiding
+	- Het teambord moet dát bevatten wat belangrijk is voor het team
+	- Elk transformatieteam heeft een eigen bord op een centrale, zichtbare, vaste locatie
+- Rooster een vast tijdstip in voor de dagelijkse Bordsessie
+
+##Hoe werkt een Bordsessie in de praktijk?
+- Iedereen staat rond het bord en is betrokken
+- De bespreking blijft kort (max 15 minuten)
+- Grote discussies tijdens de Bordsessie worden geparkeerd (bijv. op een post-it) en tijdens een wekelijkse sessie opgepakt of op een ander gepland moment
+- Bespreek met de leden van je transformatieteam
+	A. Team, hoe gaat het met iedereen? 
+	B. Verbeteracties, afspraken en ontwikkelpunten. Zijn de gestelde doelen behaald? Heeft iemand een hulpvraag?
+	C. Bespreek status van planning en voortgang en van de teamdoelen
+	D. Zijn er nieuwe verbeteracties
+- Noteer alles op het white board
+
+**“Door te staan, hou je het kort en actief.”
+**
+
+**“Door dagelijks samen te komen en de voortgang te bespreken ontstaat er ritme en groeit het groepsgevoel, vertrouwen en de veiligheid in de groep.”
+**
+
+------------
+#Wat is het doel van de onderdelen van een teambord?
+##LeerKRACHT informatie
+Delen van contact informatie
+Delen van materialen (Checklist, GW formulier) 
+Bijhouden van team- normen en afspraken
+Bijhouden van barometer
+Bijhouden van status van leerKRACHT programma
+##Planning en voortgang
+Bieden van overzicht van activiteiten
+Bijhouden voortgang van belangrijke activiteiten of doelen (bv, zijn we op schema om alle stageplekken te regelen?) 
+Plannen van interventies werkbezoek en gezamenlijke lesvoorbereiding
+Bijhouden van voortgang van kerninterventies
+##Team en successen
+Toetsen sfeer en motivatie in het team om mogelijkheid te creëren om positieve zowel als negatieve gevoelens te uiten en verbeteracties te bespreken
+Bijhouden en vieren van behaalde successen in verbeteren van kwaliteit op de afdeling, nieuwe manier van werken en cultuurverandering
+##Teamdoelen
+Inzichtelijk maken welke doelen belangrijk zijn voor team om kwaliteit te verbeteren 
+Bijhouden status van door het team geformuleerde doelen
+##Verbeteracties
+Identificeren van verbeteringen op de afdeling 
+Aanwijzen van verantwoordelijke om voortgang bij te houden
+Datum bepalen waarop de actie gereed is
+Bijhouden van voortgang en resultaat van verbeteractie
+
+--------------
+#Elk team maakt zijn eigen bord met als basis een aantal standaardonderdelen (voorbeeld visualisatie) 
+
+**NB**: dit is slechts een voorbeeld, het bord is niet statisch en moet constant worden aangepast om juist die problemen en informatie weer te geven die de leraar dagelijks bezig houdt 
+
+__________________
+#Nog enkele voorbeelden
+
+**NB**: dit zijn slechts voorbeelden, het bord is niet statisch en moet constant worden aangepast om juist die problemen en informatie weer te geven die de leraar dagelijks bezig houdt 
+
+-------------------------
+#Hoe kun je het bord concreet inrichten?
+LeerKRACHT informatie 
+
+Standaard opzet
+##Namenlijst + coach Contactinfo
+Wie doen er mee aan het programma van de afdeling en van leerKRACHT?
+##Bakje met GW formulieren
+## Bakje met kijkwijzers
+##Team-normen en gemaakte afspraken
+Welke afspraken hebben we samen gemaakt? 
+## Barometer
+Hoe ziet de laatste barometer eruit? 
+## Status 8-weekse transformatie programma
+Wat is de status van het leerKRACHT programma?
+---------------
+#Hoe kun je het bord concreet inrichten?
+Planning en voortgang
+
+##Standaard opzet 
+###Bijhouden voortgang kerninterventies
+Hoeveel WB en GW doen we met het team per week?
+Welk percentage van team is aanwezig bij Bordsessie?
+
+##Door school zelf in te richten
+###School kalender
+###Voortgang reguliere activiteiten/projecten waar-van we periodiek de status moeten checken (bv # stageplekken)
+###Overzicht werkbezoeken (wie gaat deze week bij wie kijken)
+
+------------
+
+#Hoe kun je het bord concreet inrichten?
+Teamdoelen
