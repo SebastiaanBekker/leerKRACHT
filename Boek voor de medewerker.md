@@ -134,3 +134,28 @@ Een MBO heeft een grote toestroom van leerlingen. Gezien het totaal aantal docen
 
 BRON: PISA 2009; McKinsey – How the world’s most improved school systems keep getting better(2010); Regeerakkoorden 1989, 1994, 1998, 2002. 2003 en 2010; Dereguleren met beleid 2000	2004	2008	2012 (Onderwijsraad, 2000); www.stichting-leerkracht.nl
 
+----------------
+#Hoe werkt leerKRACHT voor medewerkers?
+***“Succesvolle interventies van ‘goed’ naar ‘excellent’ richten zich op de professionalisering van leraren en schoolleiding” en dus ook overige medewerkers
+
+- Stichting leerKRACHT biedt dezelfde geleidelijke transformatieaanpak voor ondersteunende diensten als voor de leraar. Allen sommige kerninterventies zijn aangepast aan de realiteit van die medewerkers.
+- Overtuigingen die ten grondslag liggen aan het programma blijven:
+	- Iedereen op school is onderdeel van de transformatie, in alle functies en lagen, dus ook ondersteunende diensten 
+	– Verandering kost tijd en is lastig dus het programma duurt een (school)jaar, waarin steeds kleine teams aan de slag gaan 
+    – Standaardoplossingen zijn onwenselijk, elk team bedenkt oplossingen voor de eigen situatie. 
+    
+-----------------------
+
+#Wat betekent leerKRACHT voor ondersteunende diensten?
+***“Een geweldige school herken je niet alleen aan leerling resultaten, maar vooral ook aan de schoolcultuur en kwaliteit van alle medewerkers”
+
+Stichting leerKRACHT heeft naar aanleiding van de ervaringen met name op MBO scholen, de bestaande aanpak aangepast aan de medewerkers van ondersteunende diensten, waarbij een cultuur van continue verbetering de sleutel is tot succes blijft. Ook deze aanpak draait om een drietal kerninterventies waarbij de medewerker centraal staat.
+1. ***Bezoek:***
+	- Werkbezoek: medewerkers leren van elkaar op de werkvloer, bijv observeren elkaar bij een gesprek of een vergadering. Letten op aandachts- en/of ontwikkelpunten en geven elkaar feedback.
+	- Lesbezoek: Bezoek periodiek een les, om nog beter te verbinden met het onderwijs
+2. ***Gezamenlijke Werkvoorbereiding:*** medewerkers bereiden samen een proces of een activiteit voor met een eindproduct, bijv een standaardprocedure of een checklist.
+3. ***Bordsessie:*** effectieve, korte teamsessies, waarin medewerkers en teamleider dagelijks resultaten bespreken, processen signaleren die optimalisatie behoeven / gebieden waarvoor een proces ontwikkeld dient te worden, verbeteracties afspreken en dit visualiseren op een white board.
+
+Daarnaast dient de ***leiding*** sterk aanwezig te zijn op de ***werkvloer***. De teamleiding besteedt veel tijd aan het verbeteren van de kwaliteit van de werkzaamheden en het ondersteunen van de medewerkers.
+
+-------------
