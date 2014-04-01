@@ -159,3 +159,37 @@ Stichting leerKRACHT heeft naar aanleiding van de ervaringen met name op MBO sch
 Daarnaast dient de ***leiding*** sterk aanwezig te zijn op de ***werkvloer***. De teamleiding besteedt veel tijd aan het verbeteren van de kwaliteit van de werkzaamheden en het ondersteunen van de medewerkers.
 
 -------------
+
+#Welke hulp krijg je als medewerker?
+
+***Teamleider***
+▪ Opstarten programma ▪ Maken en bijhouden van de
+planning (inroosteren van Bordsessies en Pizzasessies)
+▪ Faciliteren van interventies, en in het begin voorbereiden en voorzitten van teamsessies
+▪ Verzekeren dat de dagelijkse Bordsessie een vast onderdeel wordt van de werkwijze binnen het team
+▪ Borgen van het programma door een vaste ritmiek
+
+**Coach**
+▪ Coachen medewerkers bij interventies (bijv. bij feedback geven of een Bordsessie)
+▪ Aanbieden en faciliteren van trainingen op school
+▪ Borgen van programma met vaste ritmiek
+
+***Stichting leerKRACHT***
+▪ Organiseren en faciliteren van bijeenkomsten (Pizzasessies) waar ervaringen met andere scholen en ondersteunende diensten worden uitgewisseld
+▪ Beschikbaar stellen van experts voor verschillende activiteiten tijdens het transformatie-programma
+▪ Voorzien van informatie via online platform en website
+
+------------
+
+#Weekplanning – in acht weken ontwikkel je met je transformatieteam een blijvende nieuwe manier van werken
+
+-------------------
+
+#Jaarplanning schoolleiding kleine school (~30 leraren)
+
+
+
+
+--------------
+
+
