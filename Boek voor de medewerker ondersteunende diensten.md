@@ -528,9 +528,11 @@ Welk percentage van team is aanwezig bij Bordsessie?
 
 ##Door school zelf in te richten
 ###School kalender
+![schoolkalender.png](/media/schoolkalender.png)
 ###Voortgang reguliere activiteiten/projecten waar-van we periodiek de status moeten checken (bv # stageplekken)
+![voortgang.png](/media/voortgang.png)
 ###Overzicht werkbezoeken (wie gaat deze week bij wie kijken)
-
+![werkbezoeken.png](/media/werkbezoeken.png)
 ------------
 
 #Hoe kun je het bord concreet inrichten?
@@ -583,10 +585,10 @@ Wie van het team voelt zich positief, neutraal, negatief?
 Onderdeel		Voorbeeld Visualisatie
 
 Behaalde successen (wat hebben we te vieren?) 
-
+![successen.png](/media/successen.png)
 -------------------
 #Voorbeeld van een teambord op een school voor voortgezet onderwijs
-
+![teambord_VO.png](/media/teambord_VO.png)
 Baremeter
 **Om te vieren** Successen vieren op het bord
 **Acties** Wat? Wie? Wanneer?
@@ -596,6 +598,8 @@ Baremeter
 
 -------------------
 #Voorbeeld van een teambord van een ‘Rekengroep’ op het VMBO
+![teambord_rekengroep_VMBO.png](/media/teambord_rekengroep_VMBO.png)
+
 Teambord Rekengroep
 **Werkbezoek** Aantal lesbezoeken
 **Planning** Planning van komende week
