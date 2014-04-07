@@ -12,5 +12,4 @@ prose:
     - /public
     - /blog
   rooturl: ''
-  relativeLinks: 'http://prose.io/#SebastiaanBekker/leerKRACHT/links.jsonp'
   
