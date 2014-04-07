@@ -316,7 +316,9 @@ Voorbeeld: Kijkwijzer
 
 ![voorbeeld kijkwijzer.png](/media/voorbeeld_kijkwijzer.png)
 
----------
+
+
+-------------------
 #Kijkwijzer voor werkobservaties
 
 ![kijkwijzer voor werkobservaties.png](/media/kijkwijzer_werkobservaties.png)
