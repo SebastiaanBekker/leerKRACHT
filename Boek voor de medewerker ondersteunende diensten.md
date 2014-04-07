@@ -1,5 +1,6 @@
 #Boek voor de medewerker ondersteunende diensten 2014
---------
+
+![logo.png](/media/logo.png)--------
 #Welkom
 Beste medewerker,
 
