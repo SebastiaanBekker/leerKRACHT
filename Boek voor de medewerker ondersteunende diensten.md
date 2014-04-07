@@ -649,3 +649,224 @@ Bovendien krijg je meer te horen over feedback, borging, evaluaties en transform
 --------------------
 #Het feedback model helpt je om op een effectieve en niet bedreigende manier feedback aan elkaar te geven in elke situatie
 
+##Feedback geven
+1. observatie
+	- Geef concrete en objectieve voorbeelden vanuit jouw perspectief
+    - Geef geen waarde oordeel
+2. effect
+	- Geef aan welk effect dat had op jou
+3. reactie
+	-Pauzeer. 
+    - Vraag om reactie en luister aandachtig naar het antwoord; stel aanvullende vragen.
+4. suggesties
+	- Vraag wat ontvanger zelf voor suggesties heeft
+    - Zoek gezamenlijk naar manieren om hierop voort te bouwen
+##feedback ontvangen
+1. observatie
+    - Luisteren
+2. effect
+	- Laat de ander uitpraten, ga niet meteen in de verdediging: feed-back is bedoeld om te helpen!
+3. reactie
+	- Zorg ervoor dat het punt duidelijk is voor jou. Stel aanvullende vragen 
+    - Geef jouw perspectief
+4. suggesties
+	- Zoek gezamenlijk naar manieren om hierop voort te bouwen
+
+------------------
+#Het Platform Stichting LeerKRACHT bevat de volgende elementen en tools
+
+Platform Stichting LeerKRACHT
+https://stichtingleerkracht.sharepoint.com
+
+- E-mail account (kun je doorlinken)
+- Centraal punt voor enquêtes en uitnodigingen
+- Contact gegevens van alle leerKRACHT deelnemers
+- Gedeelde documenten van LeerKRACHT
+-  Agenda- functie
+- Forum
+
+-------------------
+#Word actief op het platform en maak gebruik van de mogelijkheden
+
+1. Van je coach ontvang je de inloggegevens om je aan te melden op het platform. 
+2. Surf op het platform, maak het je eigen en vraag hulp indien nodig.
+3. Reageer altijd op e-mails met links naar uitnodigingen (voor bijv. pizzasessies) en enquêtes.
+4. Als je dat leuk lijkt: meld je aan als actief blogger bij info@stichting-leerkracht.nl
+
+-------------------
+#Tips en tricks om tijd te besparen
+##Vergaderen 
+- Doe het bord als deel ( start ) van de teamvergadering dan wel het leerkrachtuur/uren. Dit bespaard tijd want veel urgente zaken en doelen zijn al bij het bord ter sprake gebracht
+- Beperk het tot de daadwerkelijke doelen van de vergadering. Maak een parkeeroptie op het bord met andere relevante zaken die tijdens de vergadering naar voren komen en bekijk wanneer deze op te pakken
+- Stel een (wisselende) tijdsbewaker aan wanneer de vergaderingen structureel uitlopen
+- Denk na of iedereen overal bij moet zijn. Vast niet
+- Kijk welke onderwerpen in de hele teamvergadering besproken moeten worden, of dat je een groepje de opdracht kan geven een oplossing te bedenken (link bord)
+- Doe geen rondvraag. Stimuleer mensen dat ze van te voren bij het management langskomen als er zaken zijn die ze willen bespreken, bepaal dan of het een agendapunt is, of anders kan worden opgelost
+##Administratie 
+- Noteer zaken kort en bondig. Spreek als team af hoe je dat wil: welke notering is goed genoeg/te kort/te uitgebreid
+- Houd geen dubbele administratie bij (zowel op schrift als digitaal). Dan direct in digitale systeem
+- Probeer zoveel mogelijk werkzaamheden te standaardiseren, voorkom dat je geregeld het wiel opnieuw moet uitvinden. Noteer (of voer in) het liefst direct, bv tijdens een gesprek, of direct erna
+- Werk aan een ding tegelijk, ook als je de administratie doet, laat je niet afleiden door je mail, gesprekjes, e.d. Dan moet je er elke keer opnieuw inkomen, en dan gaat het minder efficiënt
+- Check als school/onderwijsinstelling of je niet teveel administreert (eisen inspectie, eisen bestuur, eigen handelingswijze). Rapporten over regeldruk wijzen aan dat lang niet alles van de overheid komt en verplicht is, dat denkt men vaak
+
+-------------------------
+#leerKRACHT Voortgangsmeter bordsessies (BS)
+
+##Eerste 8 weken: Introduceren kerninterventies en creëren van veiligheid
+
+Score 1 t/m 5
+
+**Hoe**
+Frequentie van 1 x per dag
+
+Actieve deelname hele eerst golf team
+
+Tijdsduur < 15 min
+
+**Sfeer**
+Teamleden voelen de ruimte om te zeggen wat ze vinden
+
+De sfeer is veilig
+
+Teamleden bieden elkaar regelmatig hulp aan
+
+Het team viert regelmatig successen
+
+##Volgende fase: Verdiepen en richten op effect op de klant
+
+
+**Resultaatdoelen op het bord	
+**Concreet
+
+Klantgericht
+
+Kort cyclisch gemeten (weken, niet maanden)
+
+**Gesprek**
+Teamleden spreken elkaar constructief aan, ook over ‘gevoelige’ onderwerpen
+
+Teamleden stellen zich kwetsbaar op
+
+**Verbeteracties**
+Dat het bord ‘leeft’, blijkt o.a. uit het feit dat er wekelijks nieuwe verbeteracties worden toegevoegd
+
+De acties leiden direct of indirect tot een verbetering 
+van de kwaliteit van onderwijs
+
+1 = onvoldoende
+2 = matig
+3 = voldoende
+4 = ruimvoldoende
+5 = goed 
+
+
+----------------------------
+
+#leerKRACHT Voortgangsmeter Werkbezoek (WB)
+
+##Eerste 8 weken: Introduceren kerninterventies en creëren van veiligheid
+
+**Hoe**
+Frequentie van minimaal 1 x per 2 weken	
+
+Observator gebruikt kijkwijzer
+
+**Met wie
+**Collega’s observeren elkaar in werksituaties
+
+Medewerkers bezoeken periodiek lessen
+
+**Feedback**
+Na elk werkbezoek vindt een kort feedbackgesprek plaats (15 min)
+
+Het feedbackmodel wordt gebruikt
+
+Observator geeft complimenten
+
+Observator geeft constructieve feedback
+
+##Volgende fase: Verdiepen en richten op effect op de klant
+
+
+**Doel werkbezoek is een mix van individuele en team doelen
+**Medewerkers definiëren eigen leerdoelen en delen deze vooraf met observator
+
+De leervragen zijn belangrijk voor de ontwikkeling van de individuele medewerker
+
+Werkbezoeken  zijn gekoppeld aan een teamdoel op het bord
+
+**Proces**
+Het team past de kijkwijzer dynamisch aan, aan de doelen op het bord
+
+**Effect** 
+Medewerkers zoeken oplossingen voor problemen (let op ‘bedrijfsblindheid’, accepteer geen problemen 
+omdat ze ‘normaal’ zijn)
+
+Medewerkers implementeren de oplossingen
+
+----------------------
+
+#leerKRACHT Voortgangsmeter Gezamenlijke Werkvoorbereiding (GW)
+
+##Eerste 8 weken: Introduceren kerninterventies en creëren van veiligheid
+
+**Hoe**
+Frequentie van minimaal 1 x per 2 weken	
+
+Medewerkers bereiden tenminste 1 maal  tijdens de leerKRACHT golf gezamenlijk werk voor met een collega  van afdeling
+
+**Proces**
+Team ontwerpt een GW formulier 
+
+Standaarprocedures en checklists worden toegankelijk 
+vastgelegd
+
+##Volgende fase: Verdiepen en richten op effect op de klant
+
+**Doel werkbezoek is een mix van individuele en team doelen
+**De GW is gericht op de individuele leervragen van de medewerker
+
+De GW is gekoppeld aan een doel op het bord
+
+**Evaluatie**
+Medewerkers evalueren samen hun GW, eventueel met behulp van werkbezoeken
+
+**Effect**
+Aan het eind van een werkbezoek vaststellen of leerdoelen gehaald zijn
+
+Aan het eind van een periode, beoordelen of doelen behaald, dmv analyse van resultaten
+
+---------------------------
+
+#Versimpelde weergave van het leerKRACHT transformatieprogramma
+
+##Kenmerken transformatieprogramma
+
+Transformatie duurt een schooljaar waarbinnen steeds nieuwe **teams van ~10 medewerkers aan een 8 weken durend** programma deelnemen
+
+**Drie kerninterventies** staan centraal en worden een vast onderdeel van de werkwijze van het team
+
+Elke nieuwe groep medewerkers geeft zelf vorm aan de indeling van hun bord en de uitvoering van hun Gezamenlijke Werkvoorbereiding en Werkbezoek
+
+Iedereen op school is onderdeel van de transformatie: **medewerkers, leraren, schoolleiding en schoolbestuurders** nemen tegelijkertijd deel aan een samenhangend programma
+
+Naast het programma op de onderwijsinstelling zelf zijn **maandelijkse Pizzasessies** met meerdere scholen nodig om successen te vieren en van elkaar te leren
+
+##Kerninterventies
+1. Werkbezoek  
+Medewerkers observeren elkaar, leren van elkaar, introduceren oplossingen voor gesignaleerde ontwikkelpunte en geven feedback
+
+2. Gezamenlijke Werkvoorbereiding  
+Medewerkers bereiden samen een proces of een activiteit voor met een eindproduct, zoals bijvoorbeeld een standaardprocedure of checklist.  
+
+3. Bordsessie 
+Effectieve, korte teammeetings, waarin medewerkers en leiding dagelijks resultaten bespreken, ontwikkelpunten signaleren, verbeteracties afspreken en dit visualiseren op een white board
+
+--------------------------
+
+
+
+
+
+
+
