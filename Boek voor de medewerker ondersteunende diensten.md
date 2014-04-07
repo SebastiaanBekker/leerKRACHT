@@ -312,13 +312,10 @@ Werkbezoek kan ook op andere manieren:
 - Elke afdeling ontwerpt voor het werkbezoek haar eigen kijkwijzer, die werkt voor de context en doelen van de afdeling
 - Ontwerp kijkwijzer aan de hand van de gezamenlijke afspraken, de visie van de afdeling en/of de criteria van de kwaliteitseisen voor de afdeling
 
-Voorbeeld: Kijkwijzer
-
-![voorbeeld kijkwijzer.png](/media/voorbeeld_kijkwijzer.png)
-
-
+![kijkwijzer.png](/media/voorbeeld_kijkwijzer.png)
 
 -------------------
+
 #Kijkwijzer voor werkobservaties
 
 ![kijkwijzer voor werkobservaties.png](/media/kijkwijzer_werkobservaties.png)
@@ -357,7 +354,7 @@ Voorbeeld: Kijkwijzer
 
 ---------
 # Format lesbezoek
-
+![format_lesbezoek.png](/media/format_lesbezoek.png)
 ------------
 #Wat is Gezamenlijk Werkvoorbereiding (GW) en waarom doen we dit?
 ##Wat is Gezamenlijke Werkvoorbereiding?
@@ -414,7 +411,7 @@ Collega’s zitten wekelijks of tweewekelijks 15-60 minuten samen om werk voor t
 
 
 Voorbeeld: GW Formulier
-
+![GW_formulier.png](/media/GW_formulier.png)
 ---------------
 #Gezamenlijke werkvoorbereiding formulier (1)
 
@@ -438,7 +435,7 @@ Delen van verbeteracties zodat men hier collectief mee aan de slag kan gaan
 Voortgang laten zien op verbeteracties (gevolg: stimulans en aandacht)
 ###Ritme
 - Vaste dagelijkse ritmiek versterkt en waarborgt verbeterprocessen (waaronder GW en WB) doordat deze onderdeel zijn van de Bordsessie
-
+![visual_bordsessie.png](/media/visual_bordsessie.png)
 **“Ik heb helemaal rust in mijn hoofd nu alles op het bord staat en overzicht heb wie waar mee bezig gaat.”
 **
 
@@ -497,12 +494,12 @@ Bijhouden van voortgang en resultaat van verbeteractie
 
 --------------
 #Elk team maakt zijn eigen bord met als basis een aantal standaardonderdelen (voorbeeld visualisatie) 
-
+![voorbeeldvisualisatie_bs.png](/media/voorbeeldvisualisatie_bs.png)
 **NB**: dit is slechts een voorbeeld, het bord is niet statisch en moet constant worden aangepast om juist die problemen en informatie weer te geven die de leraar dagelijks bezig houdt 
 
 __________________
 #Nog enkele voorbeelden
-
+![enkele_voorbeelden_bs.png](/media/enkele_voorbeelden_bs.png)
 **NB**: dit zijn slechts voorbeelden, het bord is niet statisch en moet constant worden aangepast om juist die problemen en informatie weer te geven die de leraar dagelijks bezig houdt 
 
 -------------------------
@@ -584,6 +581,7 @@ Wie van het team voelt zich positief, neutraal, negatief?
 
 ##Door team zelf in te richten
 Onderdeel		Voorbeeld Visualisatie
+
 Behaalde successen (wat hebben we te vieren?) 
 
 -------------------
