@@ -314,12 +314,12 @@ Werkbezoek kan ook op andere manieren:
 
 Voorbeeld: Kijkwijzer
 
-![voorbeeld kijkwijzer.png](/media/voorbeeld%20kijkwijzer.png)
+![voorbeeld kijkwijzer.png](/media/voorbeeld_kijkwijzer.png)
 
 ---------
 #Kijkwijzer voor werkobservaties
 
-![kijkwijzer voor werkobservaties.png](/media/kijkwijzer%20voor%20werkobservaties.png)
+![kijkwijzer voor werkobservaties.png](/media/kijkwijzer_werkobservaties.png)
 
 -----------
 #Wat is Lesbezoek (LB) en waarom doen we dit?
