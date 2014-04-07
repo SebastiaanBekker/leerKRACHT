@@ -1,6 +1,8 @@
 #Boek voor de medewerker ondersteunende diensten 2014
 
-![logo.png](/media/logo.png)--------
+![logo.png](/media/logo.png)
+
+-----------------
 #Welkom
 Beste medewerker,
 
@@ -311,6 +313,8 @@ Werkbezoek kan ook op andere manieren:
 - Ontwerp kijkwijzer aan de hand van de gezamenlijke afspraken, de visie van de afdeling en/of de criteria van de kwaliteitseisen voor de afdeling
 
 Voorbeeld: Kijkwijzer
+
+
 
 ---------
 #Kijkwijzer voor werkobservaties
