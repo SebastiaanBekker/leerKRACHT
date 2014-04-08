@@ -1,5 +1,4 @@
 baseurl: /leerKRACHT
-permalink: pretty
 markdown: rdiscount
 prose:
   ignore:
