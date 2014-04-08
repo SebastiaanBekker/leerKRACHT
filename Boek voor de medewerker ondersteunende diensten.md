@@ -2,6 +2,7 @@
 
 ![logo.png](/media/logo.png)
 
+
 -----------------
 #Welkom
 Beste medewerker,
